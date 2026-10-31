@@ -1,2 +1,3 @@
-Version 1
+Version 1 - Master Update
 Payment system added
+Something in da way
